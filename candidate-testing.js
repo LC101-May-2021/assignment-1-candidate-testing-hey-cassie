@@ -75,7 +75,7 @@ if (grade >= 80) {
 } else {
   console.log(`>>> Status: FAILED <<<`);
 }
-
+  numCorrect = 0;
   return grade;
 }
 
